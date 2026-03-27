@@ -4,38 +4,55 @@
 
 ## Objetivo
 
-Consolidar calculo, resolucion de problemas y razonamiento matematico en situaciones cercanas.
+Consolidar calculo, resolucion de problemas y razonamiento matematico en situaciones cercanas, combinando trabajo manipulativo, representacion grafica y explicacion oral de procedimientos.
 
-## Contenidos
+## Ejes del libro
 
-- Numeracion y valor posicional
-- Suma, resta, multiplicacion y division
-- Medidas y magnitudes
-- Geometria basica
+- Numeracion y valor posicional.
+- Operaciones y estrategias de calculo.
+- Resolucion de problemas de una y dos etapas.
+- Medidas, datos y geometria.
 
-## Unidades
+## Contexto motivador
 
-### Unidad 1. Numeros y operaciones
+El curso organiza una feria solidaria. A lo largo de las unidades se usan ejemplos de compras, recuentos, horarios, planos y registros de datos relacionados con esa feria.
 
-Repaso de numeracion, descomposicion y operaciones basicas.
+<!-- pagebreak -->
 
-### Unidad 2. Problemas
+## Unidad 1. Numeros y operaciones
 
-Estrategias para entender, representar y resolver problemas cotidianos.
+Se repasan descomposiciones, redondeo y operaciones basicas con materiales base diez, rejillas y lineas numericas.
 
-### Unidad 3. Medida
+### Propuestas de aula
 
-Longitud, masa, capacidad y tiempo.
+1. Construir numeros con bloques y escribir varias descomposiciones.
+2. Explicar dos caminos distintos para resolver una suma.
+3. Resolver restas con apoyo visual y comprobacion.
+4. Comparar resultados estimados y exactos.
 
-## Actividades
+## Unidad 2. Problemas cotidianos
 
-1. Taller de calculo mental.
-2. Resolucion guiada de problemas.
-3. Medicion de objetos del aula.
-4. Construccion de figuras geometricas.
+Los problemas se presentan con datos relevantes e irrelevantes para obligar a seleccionar informacion y justificar el procedimiento seguido.
+
+### Estrategias
+
+- Representar con dibujo o esquema.
+- Elegir la operacion necesaria.
+- Revisar si el resultado tiene sentido.
+
+<!-- pagebreak -->
+
+## Unidad 3. Medida, datos y espacio
+
+La ultima parte integra magnitudes, graficos sencillos y figuras geometricas a partir de situaciones del colegio y del barrio.
+
+### Producto final
+
+Cada equipo diseña un puesto de la feria con presupuesto, cartel de precios, plano del espacio y registro de ventas simuladas.
 
 ## Evaluacion
 
-- Resuelve operaciones con autonomia.
-- Aplica estrategias de resolucion.
-- Usa unidades de medida basicas correctamente.
+- Resuelve operaciones con autonomia creciente.
+- Elige estrategias adecuadas para problemas.
+- Usa unidades de medida habituales.
+- Interpreta tablas y graficos sencillos.

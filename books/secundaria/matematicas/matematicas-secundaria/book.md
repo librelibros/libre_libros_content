@@ -2,40 +2,57 @@
 
 ![Ilustracion de portada](assets/cover.svg)
 
-## Objetivo
+## Proposito
 
-Desarrollar pensamiento algebraico, razonamiento geometrico y analisis de datos.
+Reforzar pensamiento algebraico, modelizacion y analisis de datos mediante situaciones que exijan justificar procedimientos, comparar estrategias y comunicar resultados con precision.
 
-## Contenidos
+## Estructura del libro
 
-- Fracciones y porcentajes
-- Algebra basica
-- Ecuaciones
-- Estadistica introductoria
+- Numeros, proporcionalidad y sentido del error.
+- Algebra y funciones.
+- Geometria y medida.
+- Estadistica aplicada a problemas reales.
 
-## Unidades
+## Contexto de trabajo
 
-### Unidad 1. Numeros racionales
+El curso estudia la viabilidad de varias propuestas para mejorar espacios del centro: redistribucion del patio, horarios y consumo energetico.
 
-Operaciones con fracciones, decimales y porcentajes.
+<!-- pagebreak -->
 
-### Unidad 2. Algebra
+## Unidad 1. Razonamiento numerico y proporcional
 
-Expresiones algebraicas, simplificacion y planteamiento de ecuaciones.
+Se abordan porcentajes, escalas, tasas y estimaciones con ejemplos relacionados con presupuestos, encuestas y comparacion de opciones.
 
-### Unidad 3. Datos y graficas
+### Actividades destacadas
 
-Tablas, media, moda, mediana y representacion grafica.
+1. Analizar descuentos y coste final.
+2. Comparar dos planes de pago.
+3. Estimar consumos y justificar el margen de error.
+4. Resolver problemas de mezcla y reparto proporcional.
 
-## Actividades
+## Unidad 2. Algebra y representacion
 
-1. Problemas de porcentajes en contexto real.
-2. Resolucion de ecuaciones de primer grado.
-3. Analisis de encuestas del aula.
-4. Interpretacion de graficas.
+El alumnado modeliza relaciones entre variables, interpreta graficas y utiliza expresiones algebraicas para describir patrones.
+
+### Preguntas clave
+
+- Que representa cada variable.
+- Como cambia una magnitud respecto a otra.
+- Que informacion aporta el corte con los ejes.
+
+<!-- pagebreak -->
+
+## Unidad 3. Geometria, datos y decisiones
+
+Las tareas finales conectan planos, areas, volumenes y analisis de datos para apoyar decisiones razonadas sobre mejoras del centro.
+
+### Producto final
+
+Cada equipo presenta una propuesta cuantificada con plano, presupuesto aproximado y defensa de por que su opcion es la mas adecuada.
 
 ## Evaluacion
 
-- Resuelve problemas con operaciones y algebra basica.
-- Interpreta datos y extrae conclusiones.
-- Justifica procedimientos con claridad.
+- Resuelve problemas con estrategias justificadas.
+- Traduce situaciones a expresiones y graficas.
+- Usa herramientas geometricas y estadisticas con sentido.
+- Comunica resultados con precision matematica.

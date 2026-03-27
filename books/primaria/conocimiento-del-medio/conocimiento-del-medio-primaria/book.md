@@ -2,40 +2,61 @@
 
 ![Ilustracion de portada](assets/cover.svg)
 
-## Objetivo
+## Enfoque general
 
-Comprender el entorno natural, social y cultural con actividades conectadas a la vida diaria.
+Este libro plantea una mirada integrada sobre naturaleza, sociedad y entorno cercano. Las actividades alternan observacion, lectura de informacion sencilla y pequenos productos cooperativos.
 
-## Contenidos
+## Objetivos del curso
 
-- Seres vivos
-- El cuerpo humano
-- Paisajes y mapas
-- Comunidad y servicios
+- Formular preguntas sobre fenomenos del entorno.
+- Registrar observaciones con tablas e imagenes.
+- Explicar relaciones entre seres vivos, clima y actividades humanas.
+- Utilizar vocabulario especifico en exposiciones breves.
 
-## Unidades
+## Pregunta guia
 
-### Unidad 1. El entorno natural
+Como cambia nuestro entorno a lo largo del ano y de que manera influyen las personas en esos cambios.
 
-Observacion de animales, plantas y ecosistemas cercanos.
+<!-- pagebreak -->
 
-### Unidad 2. Vivimos en sociedad
+## Unidad 1. Observar y registrar
 
-Normas, servicios y profesiones.
+Se introducen el cuaderno de campo, la descripcion de paisajes y la recogida de datos simples sobre temperatura, lluvia y elementos del barrio.
 
-### Unidad 3. Cuidamos nuestro cuerpo
+### Tareas propuestas
 
-Habitos saludables y conocimiento basico del cuerpo humano.
+1. Salida corta para identificar elementos naturales y construidos.
+2. Tabla semanal del tiempo atmosferico.
+3. Mapa sencillo del recorrido casa-colegio.
+4. Ficha de observacion de un arbol del patio.
 
-## Actividades
+## Unidad 2. Seres vivos y habitats
 
-1. Observacion de plantas del patio.
-2. Mapa del barrio o municipio.
-3. Registro de habitos saludables.
-4. Proyecto sobre profesiones de la comunidad.
+El alumnado clasifica animales y plantas por rasgos visibles, necesidades basicas y espacios donde viven.
+
+### Producto intermedio
+
+Cada equipo elabora una lamina con un habitat, tres seres vivos y una explicacion de como se relacionan.
+
+<!-- pagebreak -->
+
+## Unidad 3. Personas, recursos y cuidados
+
+Se estudia el uso responsable del agua, la energia y los espacios comunes. El libro incorpora casos practicos y pequenos debates adecuados al nivel.
+
+### Situaciones para resolver
+
+- Una clase que genera demasiados residuos.
+- Un parque del barrio con zonas deterioradas.
+- Una casa que quiere ahorrar agua.
 
 ## Evaluacion
 
-- Reconoce relaciones entre entorno, salud y convivencia.
-- Usa vocabulario basico del area.
-- Participa en proyectos sencillos de investigacion.
+- Usa tablas y dibujos para registrar informacion.
+- Relaciona entorno natural y actividades humanas.
+- Participa en debates con ejemplos concretos.
+- Propone medidas sencillas de cuidado del medio.
+
+## Cierre del proyecto
+
+Como tarea final, la clase disena una campana de buenos habitos para el colegio con carteles, lemas y una presentacion oral.

@@ -6,38 +6,60 @@
 
 ## Objetivo
 
-Mejorar comprension lectora, expresion escrita y comunicacion oral.
+Mejorar comprension lectora, expresion escrita y comunicacion oral mediante tareas conectadas con la experiencia del aula y con productos finales claros.
 
-## Contenidos
+## Saberes trabajados
 
-- Lectura comprensiva
-- Ortografia basica
-- Tipos de texto
-- Expresion oral
+- Lectura comprensiva de textos narrativos e informativos.
+- Planificacion y revision de parrafos breves.
+- Ortografia frecuente y puntuacion basica.
+- Escucha activa y exposicion oral.
 
-## Unidades
+## Situacion de aprendizaje
 
-### Unidad 1. Leer y comprender
+El grupo prepara una pequena revista escolar. Para ello necesita leer modelos, entrevistar a companeros, redactar noticias sencillas y revisar sus textos antes de publicarlos.
 
-Textos breves con preguntas literales e inferenciales.
+<!-- pagebreak -->
 
-### Unidad 2. Escribir mejor
+## Unidad 1. Leer para entender
 
-Frases, parrafos y textos narrativos sencillos.
+Se trabajan estrategias de anticipacion, localizacion de informacion y explicacion de ideas principales a partir de textos breves y preguntas guiadas.
 
-### Unidad 3. Hablar y escuchar
+### Actividades
 
-Exposiciones cortas, escucha activa y normas de conversacion.
+1. Subrayar personajes, lugares y acciones clave.
+2. Completar un esquema de inicio, nudo y desenlace.
+3. Identificar la idea principal de un texto informativo.
+4. Justificar una respuesta con una cita breve del texto.
 
-## Actividades
+## Unidad 2. Escribir con estructura
 
-1. Diario de lectura.
-2. Dictados adaptados.
-3. Escritura de cuentos cortos.
-4. Exposicion oral sobre un tema del aula.
+El alumnado planifica notas, descripciones y pequenas noticias usando organizadores visuales y listas de revision.
+
+### Taller de escritura
+
+- Esquema de quien, que, cuando y donde.
+- Borrador con dos parrafos.
+- Revision por parejas.
+- Edicion final para la revista de aula.
+
+<!-- pagebreak -->
+
+## Unidad 3. Hablar y escuchar
+
+Las sesiones incluyen entrevistas, lecturas en voz alta, recomendaciones de libros y pequenas exposiciones con apoyo visual.
+
+### Proyecto final
+
+Cada equipo publica una doble pagina de la revista con una noticia, una recomendacion lectora y una ilustracion comentada.
 
 ## Evaluacion
 
-- Comprende ideas principales de textos.
-- Escribe con estructura basica y cierta correccion.
-- Se expresa oralmente con claridad.
+- Comprende ideas principales y detalles relevantes.
+- Escribe textos breves con orden y cohesion.
+- Aplica convenciones ortograficas frecuentes.
+- Interviene oralmente con claridad y escucha activa.
+
+## Ampliacion
+
+Se proponen rincones de lectura, diarios breves y podcasts de aula para extender el trabajo durante el trimestre.
