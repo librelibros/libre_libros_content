@@ -25,6 +25,18 @@ El grupo prepara una pequena revista escolar. Para ello necesita leer modelos, e
 
 Se trabajan estrategias de anticipacion, localizacion de informacion y explicacion de ideas principales a partir de textos breves y preguntas guiadas.
 
+[[columns:2]]
+### Lectura guiada
+
+El docente lee en voz alta y el grupo identifica personajes, lugares y acciones clave con ayuda de un codigo de color compartido.
+[[col]]
+### Practica autonoma
+
+El alumnado completa una ficha breve de comprension y revisa sus respuestas en pareja.
+
+[[worksheet:ficha-comprension-revista|Abrir ficha de comprension]]
+[[/columns]]
+
 ### Actividades
 
 1. Subrayar personajes, lugares y acciones clave.

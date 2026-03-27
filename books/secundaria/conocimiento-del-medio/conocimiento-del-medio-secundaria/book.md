@@ -36,6 +36,22 @@ Se revisan observacion, hipotesis, variables y recogida de datos a partir de cas
 
 El alumnado analiza impacto ambiental, uso de recursos y desigualdades territoriales mediante noticias, informes simplificados y datos del entorno.
 
+[[columns:3]]
+### Observacion
+
+Registrar datos del entorno y describir el problema con lenguaje preciso.
+[[col]]
+### Analisis
+
+Comparar graficos, detectar tendencias y anotar causas posibles.
+[[col]]
+### Transferencia
+
+Relacionar el caso con el centro educativo y proponer una accion concreta.
+
+[[worksheet:ficha-auditoria-ambiental|Ir a la ficha de auditoria ambiental]]
+[[/columns]]
+
 ### Debate guiado
 
 - Que problema es mas urgente.
