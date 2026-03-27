@@ -1,5 +1,7 @@
 # Lengua Infantil
 
+![Ilustracion de portada](assets/cover.svg)
+
 ## Objetivo
 
 Desarrollar expresion oral, escucha activa y primer contacto con sonidos y letras.
@@ -27,4 +29,3 @@ Desarrollar expresion oral, escucha activa y primer contacto con sonidos y letra
 ## Notas para el centro
 
 Puede enriquecerse con audios cortos, pictogramas y rutinas de aula.
-

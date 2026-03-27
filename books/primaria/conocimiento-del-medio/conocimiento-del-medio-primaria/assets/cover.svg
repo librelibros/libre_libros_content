@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 540" role="img" aria-labelledby="title desc">
+  <title id="title">Conocimiento del Medio Primaria</title>
+  <desc id="desc">Portada ilustrada con montanas, rio, casa y mapa escolar.</desc>
+  <rect width="960" height="540" fill="#ecf9ff"/>
+  <rect x="50" y="50" width="860" height="440" rx="32" fill="#ffffff"/>
+  <rect x="130" y="320" width="700" height="90" rx="40" fill="#8fd17f"/>
+  <polygon points="180,320 300,170 420,320" fill="#7fb3d5"/>
+  <polygon points="330,320 480,130 630,320" fill="#5e9bc0"/>
+  <path d="M540 345c75-20 105-20 180 6" fill="none" stroke="#56cfe1" stroke-width="24" stroke-linecap="round"/>
+  <rect x="210" y="260" width="82" height="70" fill="#f4a261"/>
+  <polygon points="198,262 251,220 304,262" fill="#d1495b"/>
+  <text x="120" y="108" font-size="34" font-family="Arial, sans-serif" fill="#5b6472">Primaria · Conocimiento del Medio</text>
+  <text x="135" y="445" font-size="48" font-family="Arial, sans-serif" font-weight="700" fill="#2a9d8f">CIENCIA · ENTORNO · SOCIEDAD</text>
+</svg>

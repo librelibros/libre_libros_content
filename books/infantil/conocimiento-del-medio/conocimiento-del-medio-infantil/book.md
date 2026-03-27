@@ -1,5 +1,7 @@
 # Conocimiento del Medio Infantil
 
+![Ilustracion de portada](assets/cover.svg)
+
 ## Objetivo
 
 Explorar el entorno cercano, las estaciones, los animales y las rutinas del dia a dia.
@@ -27,4 +29,3 @@ Explorar el entorno cercano, las estaciones, los animales y las rutinas del dia 
 ## Notas para el centro
 
 Se puede contextualizar con salidas al patio, huerto escolar o rincones tematicos.
-

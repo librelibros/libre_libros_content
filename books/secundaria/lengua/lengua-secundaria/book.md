@@ -1,5 +1,7 @@
 # Lengua Secundaria
 
+![Ilustracion de portada](assets/cover.svg)
+
 ## Objetivo
 
 Profundizar en analisis de textos, expresion argumentativa y competencia comunicativa.
@@ -37,4 +39,3 @@ Planificacion y redaccion de textos argumentativos.
 - Analiza textos con criterio.
 - Redacta con estructura y coherencia.
 - Participa oralmente con argumentos bien organizados.
-

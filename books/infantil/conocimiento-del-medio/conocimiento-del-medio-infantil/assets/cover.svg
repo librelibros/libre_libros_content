@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 540" role="img" aria-labelledby="title desc">
+  <title id="title">Conocimiento del Medio Infantil</title>
+  <desc id="desc">Portada ilustrada con sol, arbol, nube y entorno natural.</desc>
+  <rect width="960" height="540" fill="#e8f7ef"/>
+  <rect x="40" y="40" width="880" height="460" rx="36" fill="#ffffff"/>
+  <circle cx="180" cy="150" r="62" fill="#ffd166"/>
+  <ellipse cx="640" cy="145" rx="82" ry="40" fill="#dcefff"/>
+  <ellipse cx="710" cy="160" rx="70" ry="34" fill="#dcefff"/>
+  <rect x="120" y="360" width="720" height="70" rx="35" fill="#90d36b"/>
+  <rect x="420" y="220" width="28" height="140" fill="#8d5a3b"/>
+  <circle cx="434" cy="188" r="74" fill="#4caf50"/>
+  <circle cx="380" cy="214" r="46" fill="#6bcf63"/>
+  <circle cx="488" cy="214" r="46" fill="#6bcf63"/>
+  <text x="115" y="120" font-size="34" font-family="Arial, sans-serif" fill="#5b6472">Infantil · Conocimiento del Medio</text>
+  <text x="120" y="470" font-size="52" font-family="Arial, sans-serif" font-weight="700" fill="#2a9d8f">OBSERVA TU ENTORNO</text>
+</svg>

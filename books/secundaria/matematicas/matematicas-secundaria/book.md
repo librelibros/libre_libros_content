@@ -1,5 +1,7 @@
 # Matematicas Secundaria
 
+![Ilustracion de portada](assets/cover.svg)
+
 ## Objetivo
 
 Desarrollar pensamiento algebraico, razonamiento geometrico y analisis de datos.
@@ -37,4 +39,3 @@ Tablas, media, moda, mediana y representacion grafica.
 - Resuelve problemas con operaciones y algebra basica.
 - Interpreta datos y extrae conclusiones.
 - Justifica procedimientos con claridad.
-

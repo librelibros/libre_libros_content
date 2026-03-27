@@ -1,5 +1,7 @@
 # Conocimiento del Medio Secundaria
 
+![Ilustracion de portada](assets/cover.svg)
+
 ## Objetivo
 
 Relacionar ciencia, sociedad y territorio con una aproximacion interdisciplinar.
@@ -37,4 +39,3 @@ Cambios demograficos, urbanizacion y desigualdad territorial.
 - Formula preguntas e interpreta datos.
 - Explica relaciones entre ciencia, medio y sociedad.
 - Presenta conclusiones con claridad.
-

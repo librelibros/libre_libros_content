@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 540" role="img" aria-labelledby="title desc">
+  <title id="title">Lengua Secundaria</title>
+  <desc id="desc">Portada ilustrada con texto argumentativo, bocadillo y analisis.</desc>
+  <rect width="960" height="540" fill="#fff1f3"/>
+  <rect x="50" y="50" width="860" height="440" rx="32" fill="#ffffff"/>
+  <rect x="120" y="140" width="330" height="220" rx="20" fill="#f8fbff" stroke="#d9e1f2" stroke-width="4"/>
+  <g stroke="#9fb3c8" stroke-width="4">
+    <path d="M160 190h250M160 230h250M160 270h210M160 310h240"/>
+  </g>
+  <path d="M580 150h180a38 38 0 0 1 38 38v92a38 38 0 0 1-38 38h-96l-58 48v-48h-24a38 38 0 0 1-38-38v-92a38 38 0 0 1 38-38z" fill="#ffb703"/>
+  <text x="595" y="235" font-size="74" font-family="Arial, sans-serif" font-weight="700" fill="#264653">?</text>
+  <text x="120" y="108" font-size="36" font-family="Arial, sans-serif" fill="#5b6472">Secundaria · Lengua</text>
+  <text x="120" y="440" font-size="49" font-family="Arial, sans-serif" font-weight="700" fill="#d1495b">ANALIZA · ARGUMENTA · EXPON</text>
+</svg>

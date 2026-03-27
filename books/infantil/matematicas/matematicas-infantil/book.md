@@ -1,5 +1,7 @@
 # Matematicas Infantil
 
+![Ilustracion de portada](assets/cover.svg)
+
 ## Objetivo
 
 Introducir cantidades, formas y secuencias mediante actividades visuales y manipulativas.
@@ -27,4 +29,3 @@ Introducir cantidades, formas y secuencias mediante actividades visuales y manip
 ## Notas para el centro
 
 Este libro base se puede adaptar por trimestre, ritmo madurativo o materiales del colegio.
-

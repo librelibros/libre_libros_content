@@ -1,5 +1,7 @@
 # Matematicas Primaria
 
+![Ilustracion de portada](assets/cover.svg)
+
 ## Objetivo
 
 Consolidar calculo, resolucion de problemas y razonamiento matematico en situaciones cercanas.
@@ -37,4 +39,3 @@ Longitud, masa, capacidad y tiempo.
 - Resuelve operaciones con autonomia.
 - Aplica estrategias de resolucion.
 - Usa unidades de medida basicas correctamente.
-

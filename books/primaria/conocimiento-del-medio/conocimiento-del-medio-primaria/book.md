@@ -1,5 +1,7 @@
 # Conocimiento del Medio Primaria
 
+![Ilustracion de portada](assets/cover.svg)
+
 ## Objetivo
 
 Comprender el entorno natural, social y cultural con actividades conectadas a la vida diaria.
@@ -37,4 +39,3 @@ Habitos saludables y conocimiento basico del cuerpo humano.
 - Reconoce relaciones entre entorno, salud y convivencia.
 - Usa vocabulario basico del area.
 - Participa en proyectos sencillos de investigacion.
-

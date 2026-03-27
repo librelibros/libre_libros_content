@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 540" role="img" aria-labelledby="title desc">
+  <title id="title">Lengua Infantil</title>
+  <desc id="desc">Portada ilustrada con letras, bocadillos y lectura inicial.</desc>
+  <rect width="960" height="540" fill="#ffe8ef"/>
+  <rect x="40" y="40" width="880" height="460" rx="36" fill="#ffffff"/>
+  <rect x="120" y="120" width="240" height="180" rx="24" fill="#ff9f68"/>
+  <rect x="150" y="155" width="180" height="110" rx="16" fill="#fff2cc"/>
+  <text x="185" y="230" font-size="84" font-family="Arial, sans-serif" font-weight="700" fill="#264653">A</text>
+  <rect x="430" y="110" width="220" height="110" rx="36" fill="#76c7ff"/>
+  <circle cx="475" cy="165" r="18" fill="#ffffff"/>
+  <circle cx="530" cy="165" r="18" fill="#ffffff"/>
+  <circle cx="585" cy="165" r="18" fill="#ffffff"/>
+  <path d="M730 120h120a32 32 0 0 1 32 32v70a32 32 0 0 1-32 32H760l-46 40v-40h-16a32 32 0 0 1-32-32v-70a32 32 0 0 1 32-32z" fill="#b9e769"/>
+  <text x="110" y="360" font-size="36" font-family="Arial, sans-serif" fill="#5b6472">Infantil · Lengua</text>
+  <text x="120" y="440" font-size="72" font-family="Arial, sans-serif" font-weight="700" fill="#ef476f">LEE · HABLA · JUEGA</text>
+</svg>

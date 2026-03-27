@@ -1,5 +1,7 @@
 # Lengua Primaria
 
+![Ilustracion de portada](assets/cover.svg)
+
 ## Objetivo
 
 Mejorar comprension lectora, expresion escrita y comunicacion oral.
@@ -37,4 +39,3 @@ Exposiciones cortas, escucha activa y normas de conversacion.
 - Comprende ideas principales de textos.
 - Escribe con estructura basica y cierta correccion.
 - Se expresa oralmente con claridad.
-
