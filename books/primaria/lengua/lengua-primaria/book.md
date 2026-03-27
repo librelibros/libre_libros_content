@@ -2,6 +2,8 @@
 
 ![Ilustracion de portada](assets/cover.svg)
 
+![Escena de lectura en JPG](assets/lectura-aula.jpg)
+
 ## Objetivo
 
 Mejorar comprension lectora, expresion escrita y comunicacion oral.

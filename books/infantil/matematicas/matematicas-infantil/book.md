@@ -2,6 +2,8 @@
 
 ![Ilustracion de portada](assets/cover.svg)
 
+![Numeros y bloques en PNG](assets/numeros-colores.png)
+
 ## Objetivo
 
 Introducir cantidades, formas y secuencias mediante actividades visuales y manipulativas.

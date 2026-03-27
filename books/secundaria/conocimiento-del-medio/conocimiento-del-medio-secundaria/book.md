@@ -2,6 +2,8 @@
 
 ![Ilustracion de portada](assets/cover.svg)
 
+![Grafica y sostenibilidad en PNG](assets/sostenibilidad-datos.png)
+
 ## Objetivo
 
 Relacionar ciencia, sociedad y territorio con una aproximacion interdisciplinar.
