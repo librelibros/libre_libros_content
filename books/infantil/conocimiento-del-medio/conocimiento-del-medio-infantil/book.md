@@ -6,10 +6,6 @@
 ![captura de pantalla 2026 03 27 a las 16 26 13](assets/captura-de-pantalla-2026-03-27-a-las-16-26-13.png){: .doc-image .doc-align-center .doc-w-100}
 
 
-
-![captura de pantalla 2026 03 27 a las 16 26 13](assets/captura-de-pantalla-2026-03-27-a-las-16-26-13.png){: .doc-image .doc-align-center .doc-w-100}
-
-
 ## Presentacion
 
 Este libro introduce el entorno cercano del alumnado mediante observacion, juego y lenguaje sencillo. Cada bloque propone pequeñas conversaciones, exploraciones guiadas y rutinas faciles de repetir en el aula.
