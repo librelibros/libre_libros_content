@@ -1,8 +1,16 @@
 # Lengua Primaria
 
-![Ilustracion de portada](assets/cover.svg)
+[[columns:2]]
+### Columna 1
 
-![Escena de lectura en JPG](assets/lectura-aula.jpg)
+Escribe aquí el contenido de la columna 1.
+[[col]]
+### Columna 2
+
+Escribe aquí el contenido de la columna 2.
+[[/columns]]
+
+![Escena de lectura en JPG](assets/lectura-aula.jpg){: .doc-image .doc-align-center .doc-w-100}
 
 ## Objetivo
 
@@ -10,10 +18,14 @@ Mejorar comprension lectora, expresion escrita y comunicacion oral mediante tare
 
 ## Saberes trabajados
 
-- Lectura comprensiva de textos narrativos e informativos.
-- Planificacion y revision de parrafos breves.
-- Ortografia frecuente y puntuacion basica.
-- Escucha activa y exposicion oral.
+-   Lectura comprensiva de textos narrativos e informativos.
+    
+-   Planificacion y revision de parrafos breves.
+    
+-   Ortografia frecuente y puntuacion basica.
+    
+-   Escucha activa y exposicion oral.
+    
 
 ## Situacion de aprendizaje
 
@@ -28,21 +40,29 @@ Se trabajan estrategias de anticipacion, localizacion de informacion y explicaci
 [[columns:2]]
 ### Lectura guiada
 
-El docente lee en voz alta y el grupo identifica personajes, lugares y acciones clave con ayuda de un codigo de color compartido.
+El docente lee en voz alta y el grupo ideTexto de la primera columna para la prueba de exportacion.ntifica personajes, lugares y acciones clave con ayuda de un codigo de color compartido.
 [[col]]
 ### Practica autonoma
 
-El alumnado completa una ficha breve de comprension y revisa sus respuestas en pareja.
+El alumnado completa una ficha breve Texto de la segunda columna con apoyo visual.
+
+![column demo image](assets/column-demo-image.png){: .doc-image .doc-align-center .doc-w-100}
+
+de comprension y revisa sus respuestas en pareja.
 
 [[worksheet:ficha-comprension-revista|Abrir ficha de comprension]]
 [[/columns]]
 
 ### Actividades
 
-1. Subrayar personajes, lugares y acciones clave.
-2. Completar un esquema de inicio, nudo y desenlace.
-3. Identificar la idea principal de un texto informativo.
-4. Justificar una respuesta con una cita breve del texto.
+1.  Subrayar personajes, lugares y acciones clave.
+    
+2.  Completar un esquema de inicio, nudo y desenlace.
+    
+3.  Identificar la idea principal de un texto informativo.
+    
+4.  Justificar una respuesta con una cita breve del texto.
+    
 
 ## Unidad 2. Escribir con estructura
 
@@ -50,10 +70,14 @@ El alumnado planifica notas, descripciones y pequenas noticias usando organizado
 
 ### Taller de escritura
 
-- Esquema de quien, que, cuando y donde.
-- Borrador con dos parrafos.
-- Revision por parejas.
-- Edicion final para la revista de aula.
+-   Esquema de quien, que, cuando y donde.
+    
+-   Borrador con dos parrafos.
+    
+-   Revision por parejas.
+    
+-   Edicion final para la revista de aula.
+    
 
 <!-- pagebreak -->
 
@@ -67,10 +91,14 @@ Cada equipo publica una doble pagina de la revista con una noticia, una recomend
 
 ## Evaluacion
 
-- Comprende ideas principales y detalles relevantes.
-- Escribe textos breves con orden y cohesion.
-- Aplica convenciones ortograficas frecuentes.
-- Interviene oralmente con claridad y escucha activa.
+-   Comprende ideas principales y detalles relevantes.
+    
+-   Escribe textos breves con orden y cohesion.
+    
+-   Aplica convenciones ortograficas frecuentes.
+    
+-   Interviene oralmente con claridad y escucha activa.
+    
 
 ## Ampliacion
 
