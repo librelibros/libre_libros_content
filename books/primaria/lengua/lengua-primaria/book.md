@@ -28,7 +28,17 @@ Mejorar comprension lectora, expresion escrita y comunicacion oral mediante tare
 
 -   Lectura comprensiva de textos narrativos e informativos.
     
--   Planificacion y revision de parrafos breves.
+-   [[columns:2]]
+    ### Columna 1
+    
+    Escribe aquí el contenido de la columna 1.
+    [[col]]
+    ### Columna 2
+    
+    Escribe aquí el contenido de la columna 2.
+    [[/columns]]
+    
+    Planificacion y revision de parrafos breves.
     
 -   Ortografia frecuente y puntuacion basica.
     
@@ -48,7 +58,7 @@ Se trabajan estrategias de anticipacion, localizacion de informacion y explicaci
 [[columns:2]]
 ### Lectura guiada
 
-El docente lee en voz alta y el grupo ideTexto de la primera columna para la prueba de exportacion.ntifica personajes, lugares y acciones clave con ayuda de un codigo de Texto de la primera columna para la prueba de exportacion.color compartido.
+El docente lee en voz alta y el grupo ideTexto de la primera columna para la prueba de exportacion.ntifica personajes, lugares y acciones clave con ayuda de un codigo de Texto de la primera columna para la prueba de exportacion.color coTexto de la primera columna para la prueba de exportacion.mpartido.
 [[col]]
 ### Practica autonoma
 
@@ -56,7 +66,9 @@ El alumnado completa una ficha breve Texto de la segunda columna con apoyo visua
 
 Texto de la segunda columna con apoyo visual.
 
-![column demo image](assets/column-demo-image.png){: .doc-image .doc-align-center .doc-w-100}![column demo image](assets/column-demo-image.png){: .doc-image .doc-align-center .doc-w-100}
+Texto de la segunda columna con apoyo visual.
+
+![column demo image](assets/column-demo-image.png){: .doc-image .doc-align-center .doc-w-100}![column demo image](assets/column-demo-image.png){: .doc-image .doc-align-center .doc-w-100}![column demo image](assets/column-demo-image.png){: .doc-image .doc-align-center .doc-w-100}
 
 de comprension y revisa sus respuestas en pareja.
 
