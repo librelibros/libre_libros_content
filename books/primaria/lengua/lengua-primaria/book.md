@@ -1,59 +1,21 @@
 # Lengua Primaria
 
-[[columns:2]]
-### Columna 1
-
-Escribe aquí el contenido de la columna 1.
-[[col]]
-### Columna 2
-
-Escribe aquí el contenido de la columna 2.
-[[/columns]]
-
-[[columns:2]]
-### Columna 1
-
-Escribe aquí el contenido de la columna 1.
-[[col]]
-### Columna 2
-
-Escribe aquí el contenido de la columna 2.
-[[/columns]]
+![Portada](assets/cover.svg)
 
 ## Objetivo
 
 Mejorar comprension lectora, expresion escrita y comunicacion oral mediante tareas conectadas con la experiencia del aula y con productos finales claros.
 
+## Pregunta guia
+
+Como podemos leer, escribir y compartir textos que resulten utiles para la vida del aula y del centro.
+
 ## Saberes trabajados
 
--   Lectura comprensiva de textos narrativos e informativos.
-    
--   [[columns:2]]
-    ### Columna 1
-    
-    Escribe aquí el contenido de la columna 1.
-    [[col]]
-    ### Columna 2
-    
-    Escribe aquí el contenido de la columna 2.
-    [[/columns]]
-    
-    \[\[columns:2\]\]
-    
-    ### Columna 1
-    
-    Escribe aquí el contenido de la columna 1. \[\[col\]\]
-    
-    ### Columna 2
-    
-    Escribe aquí el contenido de la columna 2. \[\[/columns\]\]
-    
-    Planificacion y revision de parrafos breves.
-    
--   Ortografia frecuente y puntuacion basica.
-    
--   Escucha activa y exposicion oral.
-    
+- Lectura comprensiva de textos narrativos e informativos.
+- Planificacion y revision de parrafos breves.
+- Ortografia frecuente y puntuacion basica.
+- Escucha activa y exposicion oral.
 
 ## Situacion de aprendizaje
 
@@ -68,35 +30,23 @@ Se trabajan estrategias de anticipacion, localizacion de informacion y explicaci
 [[columns:2]]
 ### Lectura guiada
 
-El docente lee en voz alta y el grupo ideTexto de la primera columna para la prueba de exportacion.ntifica personajes, lugares y acciones clave con ayuda de un codigo de T Texto de la primera columna para la prueba de exportacion.exto de la primera columna para la prueba de exportacion.color coTexto de la primera columna para la prueba de exportacion.mpartido.
+El docente lee en voz alta y el grupo identifica personajes, lugares y acciones clave con ayuda de un codigo de color compartido.
 [[col]]
 ### Practica autonoma
 
-El alumnado completa una ficha breve Texto de la segunda columna con apoyo visual.
+El alumnado completa una ficha breve de comprension, revisa sus respuestas en pareja y explica por que una idea es principal y otra es secundaria.
 
-Texto de la segunda columna con apoyo visual.
+![Aula de lectura](assets/lectura-aula.jpg)
 
-Texto de la segunda columna con apoyo visual.
-
-![column demo image](assets/column-demo-image.png){: .doc-image .doc-align-center .doc-w-100}![column demo image](assets/column-demo-image.png){: .doc-image .doc-align-center .doc-w-100}![column demo image](assets/column-demo-image.png){: .doc-image .doc-align-center .doc-w-100}
-
-de comprension y revisa sus respuestas en pareja.
-
-[[worksheet:ficha-comprension-revista|Abrir ficha de comprension Texto de la segunda columna con apoyo visual.]]
-
-<audio controls src="assets/asset.gitkeep"></audio>
+[[worksheet:ficha-comprension-revista|Abrir ficha de comprension]]
 [[/columns]]
 
 ### Actividades
 
-1.  Subrayar personajes, lugares y acciones clave.
-    
-2.  Completar un esquema de inicio, nudo y desenlace.
-    
-3.  Identificar la idea principal de un texto informativo.
-    
-4.  Justificar una respuesta con una cita breve del texto.
-    
+1. Subrayar personajes, lugares y acciones clave.
+2. Completar un esquema de inicio, nudo y desenlace.
+3. Identificar la idea principal de un texto informativo.
+4. Justificar una respuesta con una cita breve del texto.
 
 ## Unidad 2. Escribir con estructura
 
@@ -104,14 +54,10 @@ El alumnado planifica notas, descripciones y pequenas noticias usando organizado
 
 ### Taller de escritura
 
--   Esquema de quien, que, cuando y donde.
-    
--   Borrador con dos parrafos.
-    
--   Revision por parejas.
-    
--   Edicion final para la revista de aula.
-    
+- Esquema de quien, que, cuando y donde.
+- Borrador con dos parrafos.
+- Revision por parejas.
+- Edicion final para la revista de aula.
 
 <!-- pagebreak -->
 
@@ -119,20 +65,28 @@ El alumnado planifica notas, descripciones y pequenas noticias usando organizado
 
 Las sesiones incluyen entrevistas, lecturas en voz alta, recomendaciones de libros y pequenas exposiciones con apoyo visual.
 
+[[columns:2]]
+### Preparar la intervencion
+
+Cada equipo ensaya una presentacion breve con apertura, desarrollo y cierre, usando una tarjeta con ideas clave.
+[[col]]
+### Compartir y mejorar
+
+El resto del grupo escucha, toma notas sencillas y ofrece una sugerencia concreta para mejorar claridad, ritmo o vocabulario.
+
+![Apoyo visual para exposicion](assets/column-demo-image.png)
+[[/columns]]
+
 ### Proyecto final
 
 Cada equipo publica una doble pagina de la revista con una noticia, una recomendacion lectora y una ilustracion comentada.
 
 ## Evaluacion
 
--   Comprende ideas principales y detalles relevantes.
-    
--   Escribe textos breves con orden y cohesion.
-    
--   Aplica convenciones ortograficas frecuentes.
-    
--   Interviene oralmente con claridad y escucha activa.
-    
+- Comprende ideas principales y detalles relevantes.
+- Escribe textos breves con orden y cohesion.
+- Aplica convenciones ortograficas frecuentes.
+- Interviene oralmente con claridad y escucha activa.
 
 ## Ampliacion
 
