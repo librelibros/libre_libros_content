@@ -38,6 +38,16 @@ Mejorar comprension lectora, expresion escrita y comunicacion oral mediante tare
     Escribe aquí el contenido de la columna 2.
     [[/columns]]
     
+    \[\[columns:2\]\]
+    
+    ### Columna 1
+    
+    Escribe aquí el contenido de la columna 1. \[\[col\]\]
+    
+    ### Columna 2
+    
+    Escribe aquí el contenido de la columna 2. \[\[/columns\]\]
+    
     Planificacion y revision de parrafos breves.
     
 -   Ortografia frecuente y puntuacion basica.
@@ -58,7 +68,7 @@ Se trabajan estrategias de anticipacion, localizacion de informacion y explicaci
 [[columns:2]]
 ### Lectura guiada
 
-El docente lee en voz alta y el grupo ideTexto de la primera columna para la prueba de exportacion.ntifica personajes, lugares y acciones clave con ayuda de un codigo de Texto de la primera columna para la prueba de exportacion.color coTexto de la primera columna para la prueba de exportacion.mpartido.
+El docente lee en voz alta y el grupo ideTexto de la primera columna para la prueba de exportacion.ntifica personajes, lugares y acciones clave con ayuda de un codigo de T Texto de la primera columna para la prueba de exportacion.exto de la primera columna para la prueba de exportacion.color coTexto de la primera columna para la prueba de exportacion.mpartido.
 [[col]]
 ### Practica autonoma
 
@@ -72,7 +82,9 @@ Texto de la segunda columna con apoyo visual.
 
 de comprension y revisa sus respuestas en pareja.
 
-[[worksheet:ficha-comprension-revista|Abrir ficha de comprension]]
+[[worksheet:ficha-comprension-revista|Abrir ficha de comprension Texto de la segunda columna con apoyo visual.]]
+
+<audio controls src="assets/asset.gitkeep"></audio>
 [[/columns]]
 
 ### Actividades
