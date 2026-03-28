@@ -10,7 +10,15 @@ Escribe aquí el contenido de la columna 1.
 Escribe aquí el contenido de la columna 2.
 [[/columns]]
 
-![Escena de lectura en JPG](assets/lectura-aula.jpg){: .doc-image .doc-align-center .doc-w-100}
+[[columns:2]]
+### Columna 1
+
+Escribe aquí el contenido de la columna 1.
+[[col]]
+### Columna 2
+
+Escribe aquí el contenido de la columna 2.
+[[/columns]]
 
 ## Objetivo
 
@@ -40,13 +48,15 @@ Se trabajan estrategias de anticipacion, localizacion de informacion y explicaci
 [[columns:2]]
 ### Lectura guiada
 
-El docente lee en voz alta y el grupo ideTexto de la primera columna para la prueba de exportacion.ntifica personajes, lugares y acciones clave con ayuda de un codigo de color compartido.
+El docente lee en voz alta y el grupo ideTexto de la primera columna para la prueba de exportacion.ntifica personajes, lugares y acciones clave con ayuda de un codigo de Texto de la primera columna para la prueba de exportacion.color compartido.
 [[col]]
 ### Practica autonoma
 
 El alumnado completa una ficha breve Texto de la segunda columna con apoyo visual.
 
-![column demo image](assets/column-demo-image.png){: .doc-image .doc-align-center .doc-w-100}
+Texto de la segunda columna con apoyo visual.
+
+![column demo image](assets/column-demo-image.png){: .doc-image .doc-align-center .doc-w-100}![column demo image](assets/column-demo-image.png){: .doc-image .doc-align-center .doc-w-100}
 
 de comprension y revisa sus respuestas en pareja.
 
