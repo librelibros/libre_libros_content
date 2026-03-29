@@ -1,15 +1,11 @@
 # Conocimiento del Medio Infantil
 
-![Ilustracion de portada](assets/cover.svg)
-
-
-![captura de pantalla 2026 03 27 a las 16 26 13](assets/captura-de-pantalla-2026-03-27-a-las-16-26-13.png){: .doc-image .doc-align-center .doc-w-100}
-
+![Ilustracion de portada](assets/cover.svg){: .doc-image .doc-align-center .doc-w-100}
 
 ## Presentacion
 
-Este libro introduce el entorno cercano del alumnado mediante observacion, juego y lenguaje sencillo. Cada bloque propone pequeñas conversaciones, exploraciones guiadas y rutinas faciles de repetir en el aula.
-AAAA
+Este libro introduce el entorno cercano del alumnado mediante observacion, juego y lenguaje sencillo. Cada bloque propone pequeñas conversaciones, exploraciones guiadas y rutinas faciles de repetir en el aula. AAAA
+
 ## Objetivos del trimestre
 
 - Nombrar partes del cuerpo y habitos de cuidado.
@@ -17,7 +13,7 @@ AAAA
 - Diferenciar cambios basicos del tiempo atmosferico.
 - Participar en conversaciones cortas sobre lo que se observa.
 
-![descripcion](assets/imagen.png)
+![descripcion](assets/imagen.png){: .doc-image .doc-align-center .doc-w-100}
 
 ## Situacion de aprendizaje
 
