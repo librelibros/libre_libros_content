@@ -1,0 +1,14 @@
+# Lock files
+.libre-libros.lock
+*.lock
+
+# IDE & Editor
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# OS
+Thumbs.db
