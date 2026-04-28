@@ -12,6 +12,7 @@ Este libro introduce el entorno cercano del alumnado mediante observacion, juego
 - Reconocer espacios habituales del colegio y de la casa.
 - Diferenciar cambios basicos del tiempo atmosferico.
 - Participar en conversaciones cortas sobre lo que se observa.
+- otro punto importante
 
 ![descripcion](assets/imagen.png){: .doc-image .doc-align-center .doc-w-100}
 
