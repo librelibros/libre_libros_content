@@ -1,6 +1,6 @@
 # Lengua Infantil
 
-![Ilustracion de portada](assets/cover.svg)
+![Ilustracion de portada](assets/cover.svg){: .doc-image .doc-align-center .doc-w-100}
 
 ## Presentacion
 
@@ -12,6 +12,7 @@ Este material acompana el desarrollo del lenguaje oral, la escucha y la aproxima
 - Escuchar cuentos cortos con apoyo visual.
 - Repetir estructuras orales sencillas.
 - Jugar con sonidos, ritmos y palabras rimadas.
+- arreglo
 
 ## Ambiente lector
 
